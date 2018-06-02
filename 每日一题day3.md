@@ -1,6 +1,6 @@
 | 编号 | 问题                                                         |
 | ---- | ------------------------------------------------------------ |
-| 1    | ![image-20180602134003802](/var/folders/d3/8k7fdhls6_97llsvsb_fdg4r0000gn/T/abnerworks.Typora/image-20180602134003802.png)这里提示if count=1那一行invalid syntax，‘invalid syntax’中文意思是什么？你认为哪里写错了？ |
+| 1    | 这里提示if count=1那一行invalid syntax，‘invalid syntax’中文意思是什么？你认为哪里写错了？ |
 | 2    | 什么是布尔值？                                               |
 | 3    | python当中遍历(loop)是什么意思？                             |
 | 4    | python代码里面文本注释前面要加什么符号？                     |
@@ -20,10 +20,10 @@
 
 
 
+
 ```python
 def if_conditions():
 	count=1
 	if count==1
     	return 'hello'
 ```
-
