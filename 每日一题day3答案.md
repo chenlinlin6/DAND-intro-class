@@ -36,7 +36,7 @@ def if_conditions():
 
 4.python代码里面文本注释前面要加什么符号？
 
-> #
+> \#
 
 5.python的strip语法是做什么用的？
 
